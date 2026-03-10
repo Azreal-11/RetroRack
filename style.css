@@ -152,7 +152,7 @@ header::before {
   height: 100vh;
    background: 
                 linear-gradient(rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.65) 100%),
-                url("image/rafael-camacho-greilberger-br4FpZvOI2w-unsplash.jpg");
+                url("rafael-camacho-greilberger-br4FpZvOI2w-unsplash.jpg");
 
             background-size: cover;
             background-position: center;
@@ -374,3 +374,4 @@ header::before {
     padding: 8px 16px;
   }
 }
+
